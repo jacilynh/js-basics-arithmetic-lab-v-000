@@ -11,5 +11,5 @@ You should NOT try to redefine any of the above variables.
 var newID = oldID + 1000000000;
 var ageIsValid = Number.isInteger(currentAge);
 var randomNumber = Math.random(0, 20);
-var randomInteger = Math.
+var randomInteger = Math.random().floor();
 // randomUserID = 
